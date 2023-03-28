@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/Lumos-metaverse/Voting-platform-on-Polygon/tree/smart-contracts
+git clone https://github.com/yarth69/minorproject-nft-voting
 ```
 
 ### 2. Install the dependencies:
@@ -61,9 +61,6 @@ Feel free to suggest a change.
 
 ![image](https://user-images.githubusercontent.com/28181759/207406865-52075cfb-d45c-4237-a29e-46116df1e865.png)
 ![image](https://user-images.githubusercontent.com/28181759/207407948-ade69f33-8297-4846-86cf-8d9c2689d3b6.png)
-
-## Authors
-Lumos Metaverse - [Lumos-metaverse](https://github.com/Lumos-metaverse)
 
 ## License
 This project is licensed under the GPL-3.0 license - see the LICENSE.md file for details.
